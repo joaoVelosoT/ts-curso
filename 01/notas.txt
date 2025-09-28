@@ -1,0 +1,6 @@
+// Para iniciar o projeto
+    npm init -y -> iniciar o projeto
+    npm install -D typescript tsx
+    tsx -> e usado para executar o codigo ts em nodejs, sem precisar compila-lo para js
+    npm install -D @types/node -> tipagem do nodej
+
